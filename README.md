@@ -8,7 +8,7 @@
 ## **2 Contributors**
 * **Hao Zheng** - *Deep Learning* - [zhhrelax](https://github.com/zhhrelax)
 * **Jinming Ji** - *Deep Learning* - [Only-Bluuue](https://github.com/Only-Bluuue)
-* **Haofei Hu** - *Machine Learning* - []()
+* **Haofei Hu** - *Machine Learning* - [HaofeiHu](https://github.com/HaofeiHu)
 * **Jiulong Xie** - *Machine Learning* - [xiejiulong9](https://github.com/xiejiulong9)
 * **JiaXuan Liu** - *Machine Learning* - [Jessie-Lau17](https://github.com/Jessie-Lau17)
  
